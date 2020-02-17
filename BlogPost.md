@@ -18,8 +18,8 @@ Let's add, then, the other elements I've learned:
 * A leading "#" denotes a header. less is more: one # is the largest font, six # is the smallest.
 * Bracketing "_" makes italics. As does bracketing "*"
 * Bracketing "**" makes Bold.
-* "[link text]("link")" makes a hyperlink embedded in the link text.
-* "!["image alt text"]("Link") embeds an image on the page.
+* "[link text]"("link")" makes a hyperlink embedded in the link text.
+* "!["image alt text"]"("Link") embeds an image on the page.
 * "* " makes an unordered list (bullet points, as is used in this list)
 * "N. " makes an ordered list, as in "1. X 2. Y 3. Z"
 
